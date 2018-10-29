@@ -12,3 +12,5 @@ In Part II we are using 'similarity_matrix.csv', which contains the pairwise sim
 You can download it from this link: https://drive.google.com/drive/folders/1lMB3fO9MusXr_42HZHzvnWuyA0zVu0Rm.
 
 The 'file tokens_per_page.txt' is a dictionary that has the names of the Wikipedia articles as keys and a list of tokens from each Wikipedia article as values (cleaned).
+
+You can find the final projects and the notebooks here: https://socialgraphs.wordpress.com/.
